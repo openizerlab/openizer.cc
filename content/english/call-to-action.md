@@ -1,9 +1,10 @@
 ---
-title : "NEED A SERVICE?"
-bg_image : "images/backgrounds/need-service.jpg"
+title : "NEED A PROPER DJ?"
+
+bg_image : "images/backgrounds/stageDJberlin.jpg"
 button:
   enable : true
-  label : "SAY HELLO!"
+  label : "BOOK OPENIZER!"
   link : "#contact"
 
 

@@ -1,6 +1,6 @@
 ######################## default configuration ####################
 baseURL = "https://examplesite.com"
-title = "Somrat | Hugo Portfolio Template"
+title = "Openizer"
 theme = "somrat"
 # post pagination
 paginate = "6"
@@ -62,12 +62,12 @@ link = "plugins/owl-carousel/owl.carousel.min.js"
 
 #################### default parameters ################################
 [params]
-favicon = "images/favicon.png"
-logo_light = "images/logo.png"
-logo_dark = "images/logo-dark.png"
-logo_width = "150px"
+favicon = "images/logo.jpg"
+logo_light = "images/.jpg"
+logo_dark = "images/.jpg"
+logo_width = "100px"
 # Meta data
-description = "This is meta description"
+description = "electronic music dj france"
 author = "somrat"
 
 # Preloader
@@ -78,23 +78,11 @@ preloader = "images/preloader.gif" # use jpg, png, svg or gif format.
 ############################# social site ########################
 [[params.social]]
 icon = "fab fa-facebook-f"
-link = "https://www.facebook.com/somratpro"
+link = "https://www.facebook.com/openizer"
 
 [[params.social]]
 icon = "fab fa-twitter"
-link = "https://twitter.com/somratpro"
-
-[[params.social]]
-icon = "fab fa-instagram"
-link = "https://www.instagram.com/somratpro"
-
-[[params.social]]
-icon = "fab fa-github"
-link = "https://github.com/somratpro"
-
-[[params.social]]
-icon = "fab fa-linkedin"
-link = "https://www.linkedin.com/in/somratpro"
+link = "https://twitter.com/openizer"
 
 
 ################################### English language #####################################
@@ -117,7 +105,7 @@ url = "/"
 weight = 1
 
 [[Languages.en.menu.main]]
-name = "About me"
+name = "Moi"
 pre = "#"
 url = "about"
 weight = 2
@@ -129,7 +117,7 @@ url = "service"
 weight = 3
 
 [[Languages.en.menu.main]]
-name = "Portfolio"
+name = "Flyers"
 pre = "#"
 url = "portfolio"
 weight = 4

@@ -45,6 +45,19 @@
     <loc>https://examplesite.com/blog/</loc>
     <lastmod>2020-05-12T12:14:34+06:00</lastmod>
   </url><url>
+    <loc>https://examplesite.com/</loc>
+    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://examplesite.com/fr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://examplesite.com/"
+                />
+  </url><url>
     <loc>https://examplesite.com/portfolio/</loc>
     <lastmod>2020-05-12T12:14:34+06:00</lastmod>
   </url><url>
@@ -66,24 +79,20 @@
     <loc>https://examplesite.com/portfolio/project-6/</loc>
     <lastmod>2020-05-12T12:14:34+06:00</lastmod>
   </url><url>
+    <loc>https://examplesite.com/portfolio/project-7/</loc>
+    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
+  </url><url>
+    <loc>https://examplesite.com/portfolio/project-8/</loc>
+    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
+  </url><url>
+    <loc>https://examplesite.com/portfolio/project-9/</loc>
+    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
+  </url><url>
     <loc>https://examplesite.com/tags/sketch/</loc>
     <lastmod>2020-05-12T12:14:34+06:00</lastmod>
   </url><url>
     <loc>https://examplesite.com/categories/sketch/</loc>
     <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-  </url><url>
-    <loc>https://examplesite.com/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://examplesite.com/fr/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://examplesite.com/"
-                />
   </url><url>
     <loc>https://examplesite.com/tags/</loc>
     <lastmod>2020-05-12T12:14:34+06:00</lastmod>
@@ -121,11 +130,11 @@
   </url><url>
     <loc>https://examplesite.com/funfacts/</loc>
   </url><url>
-    <loc>https://examplesite.com/banner/</loc>
-  </url><url>
     <loc>https://examplesite.com/about/</loc>
   </url><url>
     <loc>https://examplesite.com/call-to-action/</loc>
+  </url><url>
+    <loc>https://examplesite.com/banner/</loc>
   </url><url>
     <loc>https://examplesite.com/contact/</loc>
   </url><url>

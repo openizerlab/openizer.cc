@@ -3,24 +3,24 @@ title: ""
 bg_image: "images/backgrounds/funfact-bg.jpg"
 funfacts:
 # funfacts item loop
-- name : "HANDS TO WORK"
+- name : "B2B"
   image : "images/icons/works.png"
-  count : "100"
+  count : "69"
   
 # funfacts item loop
-- name : "HAPPY CLIENT"
+- name : "HAPPY DANCER"
   image : "images/icons/happy.png"
-  count : "200"
+  count : "+1000000"
   
 # funfacts item loop
-- name : "FINISHED PROJECT"
+- name : "BLOC PARTY"
   image : "images/icons/project.png"
-  count : "250"
+  count : "28"
   
 # funfacts item loop
-- name : "CUPS OF COFFEE"
+- name : "POLICE INTERVENTION"
   image : "images/icons/coffee.png"
-  count : "150"
+  count : "7"
 
 
 # custom style

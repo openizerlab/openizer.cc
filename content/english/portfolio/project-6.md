@@ -1,7 +1,7 @@
 ---
 title: "Project Title"
 date: 2020-05-12T12:14:34+06:00
-image: "images/portfolio/item6.jpg"
+image: "images/portfolio/bali2.jpg"
 categories: ["design","logo"]
 description: "This is meta description."
 draft: false

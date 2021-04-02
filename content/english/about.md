@@ -1,10 +1,10 @@
 ---
-title : "KNOW MORE <br> ABOUT ME"
-image : "images/backgrounds/portrait.jpg"
+title : "A beat <br> of me"
+image : "images/backgrounds/intro.gif"
 # button
 button:
   enable : true
-  label : "DOWNLOAD MY CV"
+  label : "Check my DJ sets"
   link : "#"
 
 ########################### Experience ##############################
@@ -13,49 +13,74 @@ experience:
   title : "EXPERIENCE"
   experience_list:
     # experience item loop
-    - name : "Web Developer"
-      company : "Fiverr.com"
-      duration : "2016-2018"
-      content : "I work with HTML, CSS, and Javascript to create websites and web applications like Personal, Business, Blog, E-comerches etc."
+    - name : "Bellastock festival"
+      company : "Disco Soupe crew, Paris"
+      duration : "2017-2019"
+      content : "Supporting collective kitchens with funky beats + All Night Partying"
+
+    # experience item loop
+    - name : "Party Organizer"
+      company : "Villette Makers, Paris w/ Animaux du Futur crew"
+      duration : "2017"
+      content : "We made cool blinking/lighting installations to welcome 200 peeps in the Fablab. Party kids had good fun in our swimming pool full of balls."
+
+    # experience item loop
+    - name : "Euro Burner"
+      company : "Nowhere festival w/ Garden of Joy camp"
+      duration : "2013"
+      content : "Detroit + Raving Techno sets + B2B with Jinto. We also set the T.E.M.P.L.E, a bizarre interactive installation."
       
     # experience item loop
-    - name : "Graphic Designer"
-      company : "Fiverr.com"
-      duration : "2015-2018"
-      content : "Graphic design is art with a purpose. I love illustration, so logo desing is my favorite work. But i can do many things with graphics."
-      
-    # experience item loop
-    - name : "Database Manager"
-      company : "Polytechnic"
-      duration : "2014-2018"
-      content : "Database management is among the fundamental processes in the software field of computing. I know MS Access very well."
+    - name : "US Burner"
+      company : "Black Rock City w/ Bassenge camp"
+      duration : "2012"
+      content : "I wasn't able to spinn, but attending Burning Man was brilliant. I highly recommend it to all human creatures."
 
 ############################### Skill #################################
 skill:
   enable : true
-  title : "SKILL"
+  title : "STYLES"
   skill_list:
     # skill item loop
-    - name : "Web Development"
+    - name : "ACIIIIIIIIIIIIIID"
+      percentage : "100%"
+      
+    # skill item loop
+    - name : "Electro_Techno"
+      percentage : "99%"
+      
+    # skill item loop
+    - name : "NeoDisco"
       percentage : "98%"
       
     # skill item loop
-    - name : "Graphic Design"
-      percentage : "85%"
-      
+    - name : "[Piano+Deep]House"
+      percentage : "97%"
+    
     # skill item loop
-    - name : "Database Management"
-      percentage : "90%"
-      
+    - name : "Breaks+Drum&Bass"
+      percentage : "96%"
+    
     # skill item loop
-    - name : "Wordpress"
-      percentage : "70%"
+    - name : "Trance"
+      percentage : "95%"
 
+    # skill item loop
+    - name : "Mainstream"
+      percentage : "2%"
 
 # custom style
 custom_class: "" 
 custom_attributes: "" 
 custom_css: ""
 ---
+I am Openizer, falling in love with Electronic music 15 years ago, DJing for Free Culture to blur frontiers between<br>
+the old & the new,<br> 
+space & time,<br>
+black & white.
 
-It's Somrat, Professional Web Developer. I love to write code, it's my passoin. I am here to help you, i am here to design your web page. i can help you to describe yourself in the best way.<br>No matter how difficult your web page is, i will find an easy way and complete your work anyway. Stay connect with me........😊
+
+There's always a beat to<br> 
+Dream,<br> 
+Groove,<br>
+Rave!
