@@ -39,6 +39,9 @@
     <loc>https://examplesite.com/categories/development/</loc>
     <lastmod>2020-05-12T12:14:34+06:00</lastmod>
   </url><url>
+    <loc>https://examplesite.com/portfolio/</loc>
+    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
+  </url><url>
     <loc>https://examplesite.com/categories/logo/</loc>
     <lastmod>2020-05-12T12:14:34+06:00</lastmod>
   </url><url>
@@ -57,9 +60,6 @@
                 hreflang="en"
                 href="https://examplesite.com/"
                 />
-  </url><url>
-    <loc>https://examplesite.com/portfolio/</loc>
-    <lastmod>2020-05-12T12:14:34+06:00</lastmod>
   </url><url>
     <loc>https://examplesite.com/portfolio/project-1/</loc>
     <lastmod>2020-05-12T12:14:34+06:00</lastmod>
@@ -130,6 +130,8 @@
   </url><url>
     <loc>https://examplesite.com/funfacts/</loc>
   </url><url>
+    <loc>https://examplesite.com/service/</loc>
+  </url><url>
     <loc>https://examplesite.com/about/</loc>
   </url><url>
     <loc>https://examplesite.com/call-to-action/</loc>
@@ -137,8 +139,6 @@
     <loc>https://examplesite.com/banner/</loc>
   </url><url>
     <loc>https://examplesite.com/contact/</loc>
-  </url><url>
-    <loc>https://examplesite.com/service/</loc>
   </url><url>
     <loc>https://examplesite.com/testimonial/</loc>
   </url>

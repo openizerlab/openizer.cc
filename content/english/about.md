@@ -10,7 +10,7 @@ button:
 ########################### Experience ##############################
 experience:
   enable : true
-  title : "EXPERIENCE"
+  title : "I only share 4 cool experiences because attention economy sucks your brain."
   experience_list:
     # experience item loop
     - name : "Bellastock festival"
@@ -22,18 +22,18 @@ experience:
     - name : "Party Organizer"
       company : "Villette Makers, Paris w/ Animaux du Futur crew"
       duration : "2017"
-      content : "We made cool blinking/lighting installations to welcome 200 peeps in the Fablab. Party kids had good fun in our swimming pool full of balls."
+      content : "We made cool blinking/lighting installations to welcome 200 peeps in the Fablab."
 
     # experience item loop
     - name : "Euro Burner"
       company : "Nowhere festival w/ Garden of Joy camp"
-      duration : "2013"
+      duration : "2014"
       content : "Detroit + Raving Techno sets + B2B with Jinto. We also set the T.E.M.P.L.E, a bizarre interactive installation."
       
     # experience item loop
     - name : "US Burner"
       company : "Black Rock City w/ Bassenge camp"
-      duration : "2012"
+      duration : "2013"
       content : "I wasn't able to spinn, but attending Burning Man was brilliant. I highly recommend it to all human creatures."
 
 ############################### Skill #################################
@@ -67,7 +67,7 @@ skill:
 
     # skill item loop
     - name : "Mainstream"
-      percentage : "2%"
+      percentage : "0.2%"
 
 # custom style
 custom_class: "" 

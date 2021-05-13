@@ -1,13 +1,14 @@
 ---
 title : "Openizer, Electro Music DJ"
 # full screen navigation
-first_name : "MacGyver"
-last_name : "SOMRAT"
+first_name : "Dream.Groove.Rave."
+last_name : ""
 bg_image : "images/backgrounds/dragonled.jpg"
 # animated text loop
 occupations:
-- "I can open"
-- "Your mind"
+- "Listen to my music"
+- "Stop reading this"
+
 
 # slider background image loop
 slider_images:

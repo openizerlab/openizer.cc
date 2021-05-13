@@ -2,22 +2,22 @@
 title : "TESTIMONIALS"
 testimonial_slider:
 # slider item loop
-- name : "Micheal Clark"
-  image : "images/clients/client1.jpg"
-  designation : "CEO, RANDOM COMPANY"
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores ad, omnis totam iusto quia? Excepturi itaque quaerat, quia unde delectus rem error dignissimos in iusto."
-            
-# slider item loop
 - name : "Peter Parker"
-  image : "images/clients/client2.jpg"
-  designation : "CEO, RANDOM COMPANY"
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores ad, omnis totam iusto quia? Excepturi itaque quaerat, quia unde delectus rem error dignissimos in iusto."
+  image : "images/clients/client1.jpg"
+  designation : "CEO, Happiness Corp"
+  content : "I can't stop listening to Openizer to reach my best potential as a beacon for my post_capitalist company."
             
 # slider item loop
-- name : "Jessica Jones"
+- name : "Josay Bovay"
+  image : "images/clients/client2.jpg"
+  designation : "Random guy, 1st true fan"
+  content : "At each single one of his live performances, I had convulsions."
+            
+# slider item loop
+- name : "Micheline Laboukeuz"
   image : "images/clients/client3.jpg"
-  designation : "CEO, RANDOM COMPANY"
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores ad, omnis totam iusto quia? Excepturi itaque quaerat, quia unde delectus rem error dignissimos in iusto."
+  designation : "Booked Openizer last summer"
+  content : "Prepare your speakers to be blown by cosmic shit."
 
 # custom style
 custom_class: "" 

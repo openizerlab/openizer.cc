@@ -14,13 +14,13 @@ funfacts:
   
 # funfacts item loop
 - name : "BLOC PARTY"
-  image : "images/icons/project.png"
-  count : "28"
+  image : "images/icons/coffee.png"
+  count : "378"
   
 # funfacts item loop
 - name : "POLICE INTERVENTION"
-  image : "images/icons/coffee.png"
-  count : "7"
+  image : "images/icons/project.png"
+  count : "22"
 
 
 # custom style
