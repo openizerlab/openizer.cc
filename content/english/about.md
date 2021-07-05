@@ -5,7 +5,7 @@ image : "images/backgrounds/intro.gif"
 button:
   enable : true
   label : "Check my DJ sets"
-  link : "www.soundcloud.com/openizer"
+  link : "http://www.soundcloud.com/openizer"
 
 ########################### Experience ##############################
 experience:
