@@ -6,7 +6,7 @@ last_name : ""
 bg_image : "images/backgrounds/dragonled.jpg"
 # animated text loop
 occupations:
-- "Listen to my music"
+- "Come out & dance"
 - "Stop reading this"
 
 

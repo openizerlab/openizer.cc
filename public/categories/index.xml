@@ -7,49 +7,31 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; 2020 a hugo theme by [somrat](https://somrat.netlify.com)</copyright>
-    <lastBuildDate>Tue, 12 May 2020 12:14:34 +0600</lastBuildDate><atom:link href="https://examplesite.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 12 May 2020 12:14:34 +0000</lastBuildDate><atom:link href="https://examplesite.com/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>database</title>
-      <link>https://examplesite.com/categories/database/</link>
-      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
+      <title>resident</title>
+      <link>https://examplesite.com/categories/resident/</link>
+      <pubDate>Tue, 12 May 2020 12:14:34 +0000</pubDate>
       
-      <guid>https://examplesite.com/categories/database/</guid>
+      <guid>https://examplesite.com/categories/resident/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>design</title>
-      <link>https://examplesite.com/categories/design/</link>
-      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
+      <title>south east asia tour</title>
+      <link>https://examplesite.com/categories/south-east-asia-tour/</link>
+      <pubDate>Tue, 12 May 2020 12:14:34 +0000</pubDate>
       
-      <guid>https://examplesite.com/categories/design/</guid>
+      <guid>https://examplesite.com/categories/south-east-asia-tour/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>development</title>
-      <link>https://examplesite.com/categories/development/</link>
+      <title>live</title>
+      <link>https://examplesite.com/categories/live/</link>
       <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
       
-      <guid>https://examplesite.com/categories/development/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>logo</title>
-      <link>https://examplesite.com/categories/logo/</link>
-      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
-      
-      <guid>https://examplesite.com/categories/logo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>sketch</title>
-      <link>https://examplesite.com/categories/sketch/</link>
-      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
-      
-      <guid>https://examplesite.com/categories/sketch/</guid>
+      <guid>https://examplesite.com/categories/live/</guid>
       <description></description>
     </item>
     

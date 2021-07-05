@@ -1,8 +1,8 @@
 ---
-title: "Project Title"
-date: 2020-05-12T12:14:34+06:00
+title: "Deep Techno DJ set"
+date: 2020-05-12T12:14:34
 image: "images/portfolio/bali1.jpg"
-categories: ["design","development"]
+categories: ["resident","south east asia tour"]
 description: "This is meta description."
 draft: false
 project_info:

@@ -1,8 +1,8 @@
 ---
-title: "Project Title"
+title: "New Years Eve Night"
 date: 2020-05-12T12:14:34+06:00
 image: "images/portfolio/nagahouse2.png"
-categories: ["design","sketch"]
+categories: ["live","south east asia tour"]
 description: "This is meta description."
 draft: false
 project_info:

@@ -1,8 +1,8 @@
 ---
-title: "Project Title"
+title: "Oldschool House DJ set"
 date: 2020-05-12T12:14:34+06:00
 image: "images/portfolio/bali2.jpg"
-categories: ["design","logo"]
+categories: ["resident","south east asia tour"]
 description: "This is meta description."
 draft: false
 project_info:

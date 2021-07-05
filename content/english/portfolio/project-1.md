@@ -1,9 +1,9 @@
 ---
-title: "Project Title"
+title: "All night long"
 date: 2020-05-12T12:14:34+06:00
 image: "images/portfolio/nagahouse1.jpg"
-categories: ["design","development"]
-description: "This is meta description."
+categories: ["live","south east asia tour"]
+description: "all night long DJ set"
 draft: false
 project_info:
 - name: "Client"

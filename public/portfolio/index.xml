@@ -7,9 +7,18 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; 2020 a hugo theme by [somrat](https://somrat.netlify.com)</copyright>
-    <lastBuildDate>Tue, 12 May 2020 12:14:34 +0600</lastBuildDate><atom:link href="https://examplesite.com/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 12 May 2020 12:14:34 +0000</lastBuildDate><atom:link href="https://examplesite.com/portfolio/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Project Title</title>
+      <title>Deep Techno DJ set</title>
+      <link>https://examplesite.com/portfolio/project-2/</link>
+      <pubDate>Tue, 12 May 2020 12:14:34 +0000</pubDate>
+      
+      <guid>https://examplesite.com/portfolio/project-2/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>All night long</title>
       <link>https://examplesite.com/portfolio/project-1/</link>
       <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
       
@@ -18,16 +27,7 @@
     </item>
     
     <item>
-      <title>Project Title</title>
-      <link>https://examplesite.com/portfolio/project-2/</link>
-      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
-      
-      <guid>https://examplesite.com/portfolio/project-2/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Project Title</title>
+      <title>All night long</title>
       <link>https://examplesite.com/portfolio/project-3/</link>
       <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
       
@@ -36,7 +36,7 @@
     </item>
     
     <item>
-      <title>Project Title</title>
+      <title>All night long</title>
       <link>https://examplesite.com/portfolio/project-4/</link>
       <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
       
@@ -45,7 +45,7 @@
     </item>
     
     <item>
-      <title>Project Title</title>
+      <title>French Touch DJ set</title>
       <link>https://examplesite.com/portfolio/project-5/</link>
       <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
       
@@ -54,7 +54,16 @@
     </item>
     
     <item>
-      <title>Project Title</title>
+      <title>New Years Eve Night</title>
+      <link>https://examplesite.com/portfolio/project-7/</link>
+      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://examplesite.com/portfolio/project-7/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>Oldschool House DJ set</title>
       <link>https://examplesite.com/portfolio/project-6/</link>
       <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
       
@@ -64,28 +73,19 @@
     
     <item>
       <title>Project Title</title>
-      <link>https://examplesite.com/portfolio/project-7/</link>
-      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
-      
-      <guid>https://examplesite.com/portfolio/project-7/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Project Title</title>
-      <link>https://examplesite.com/portfolio/project-8/</link>
-      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
-      
-      <guid>https://examplesite.com/portfolio/project-8/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Project Title</title>
       <link>https://examplesite.com/portfolio/project-9/</link>
       <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
       
       <guid>https://examplesite.com/portfolio/project-9/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>World House Dj set</title>
+      <link>https://examplesite.com/portfolio/project-8/</link>
+      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://examplesite.com/portfolio/project-8/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     

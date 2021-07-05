@@ -5,12 +5,12 @@ image : "images/backgrounds/intro.gif"
 button:
   enable : true
   label : "Check my DJ sets"
-  link : "#"
+  link : "#www.soundcloud.com/openizer"
 
 ########################### Experience ##############################
 experience:
   enable : true
-  title : "I only share 4 cool experiences because attention economy sucks your brain."
+  title : "I only share 4 great experiences because attention economy sucks your brain."
   experience_list:
     # experience item loop
     - name : "Bellastock festival"
@@ -28,7 +28,7 @@ experience:
     - name : "Euro Burner"
       company : "Nowhere festival w/ Garden of Joy camp"
       duration : "2014"
-      content : "Detroit + Raving Techno sets + B2B with Jinto. We also set the T.E.M.P.L.E, a bizarre interactive installation."
+      content : "Detroit + Raving Techno sets. We also set the T.E.M.P.L.E, a bizarre interactive installation."
       
     # experience item loop
     - name : "US Burner"
@@ -50,7 +50,7 @@ skill:
       percentage : "99%"
       
     # skill item loop
-    - name : "NeoDisco"
+    - name : "NewDisco"
       percentage : "98%"
       
     # skill item loop
@@ -60,10 +60,6 @@ skill:
     # skill item loop
     - name : "Breaks+Drum&Bass"
       percentage : "96%"
-    
-    # skill item loop
-    - name : "Trance"
-      percentage : "95%"
 
     # skill item loop
     - name : "Mainstream"

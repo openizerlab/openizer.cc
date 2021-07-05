@@ -15,7 +15,7 @@ funfacts:
 # funfacts item loop
 - name : "BLOC PARTY"
   image : "images/icons/coffee.png"
-  count : "378"
+  count : "278"
   
 # funfacts item loop
 - name : "POLICE INTERVENTION"
