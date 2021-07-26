@@ -15,8 +15,8 @@ experience:
     # experience item loop
     - name : "Bellastock festival"
       company : "Disco Soupe crew, Paris"
-      duration : "2017-2019"
-      content : "Supporting collective kitchens with funky beats + All Night Partying"
+      duration : "2017-2021"
+      content : "Supporting collective kitchen with funky beats + All Night Partying"
 
     # experience item loop
     - name : "Party Organizer"
@@ -46,24 +46,24 @@ skill:
       percentage : "100%"
       
     # skill item loop
-    - name : "Electro_Techno"
+    - name : "Techno"
       percentage : "99%"
       
     # skill item loop
-    - name : "NewDisco"
+    - name : "NuDisco"
       percentage : "98%"
       
     # skill item loop
-    - name : "[Piano+Deep]House"
+    - name : "[Piano_Deep]House"
       percentage : "97%"
     
     # skill item loop
-    - name : "Breaks+Drum&Bass"
+    - name : "Breaks_Drum&Bass"
       percentage : "96%"
 
     # skill item loop
     - name : "Mainstream"
-      percentage : "0.2%"
+      percentage : "0.5%"
 
 # custom style
 custom_class: "" 

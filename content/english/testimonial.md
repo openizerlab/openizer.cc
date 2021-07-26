@@ -5,7 +5,7 @@ testimonial_slider:
 - name : "Peter Parker"
   image : "images/clients/client1.jpg"
   designation : "CEO, Happiness Corp"
-  content : "Openizer's music elevates me to the next level as a beacon for my post_capitalist company."
+  content : "I can't be a mindful_capitalist leader without Openizer in my hears."
             
 # slider item loop
 - name : "Josay Bovay"

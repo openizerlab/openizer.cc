@@ -111,7 +111,7 @@ url = "about"
 weight = 2
 
 [[Languages.en.menu.main]]
-name = "flyer"
+name = "Flyer"
 pre = "#"
 url = "portfolio"
 weight = 3
